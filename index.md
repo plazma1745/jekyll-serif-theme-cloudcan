@@ -2,7 +2,7 @@
 title: Главная
 position: 0
 description: Плазменная резка в Златоусте
-intro_image: "/uploads/home1.jpg"
+intro_image: "/uploads/plasma1.webp"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
