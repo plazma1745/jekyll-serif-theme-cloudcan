@@ -1,6 +1,7 @@
 ---
 title: Team
 permalink: "/team/"
+position: 3
 layout: teams
 description: Team
 intro_image_absolute: true

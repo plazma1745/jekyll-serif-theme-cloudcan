@@ -1,5 +1,6 @@
 ---
 title: Services
+position: 2
 layout: services
 description: Services
 intro_image: images/illustrations/reading.svg
