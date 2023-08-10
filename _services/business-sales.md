@@ -1,6 +1,6 @@
 ---
-title: "Business Sales"
-date: 2019-01-28T15:15:26+10:00
+title: Business Sales
+date: 2019-01-28 05:15:26 Z
 weight: 2
 ---
 

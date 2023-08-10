@@ -1,6 +1,6 @@
 ---
-title: "Wealth Management"
-date: 2019-06-18T12:33:46+10:00
+title: Wealth Management
+date: 2019-06-18 02:33:46 Z
 weight: 8
 ---
 

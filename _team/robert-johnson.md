@@ -1,9 +1,9 @@
 ---
-title: "Robert Johnson"
-date: 2018-12-20T13:44:23+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
-jobtitle: "Developer"
-linkedinurl: "https://www.linkedin.com/"
+title: Robert Johnson
+date: 2018-12-20 03:44:23 Z
+image: images/team/vince-fleming-613817-unsplash.jpg
+jobtitle: Developer
+linkedinurl: https://www.linkedin.com/
 weight: 3
 ---
 

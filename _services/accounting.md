@@ -1,6 +1,6 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
+title: Accounting
+date: 2018-11-18 02:33:46 Z
 weight: 1
 ---
 
