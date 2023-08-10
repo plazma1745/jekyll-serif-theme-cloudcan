@@ -2,7 +2,7 @@
 title: Главная
 position: 0
 description: Плазменная резка в Златоусте
-intro_image: "/uploads/troubleshooting-cnc-plasma-cutting-part-i-0.jpg"
+intro_image: 
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
