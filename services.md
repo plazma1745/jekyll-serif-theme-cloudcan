@@ -1,13 +1,17 @@
 ---
 title: Services
 position: 1
-layout: services
 description: Services
 intro_image: images/illustrations/reading.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
+layout: services
 ---
 
-# Services that grow with your business
+# **Оптимальное решение любой задачи**
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Cовременное оборудование и квалифицированные специалисты с практическим опытом работы с трубогибочными и прокатными станками, а также средствами механизации ручного труда. Наши производственные площади настроены на решение задач разного типа:
+
+* Собственное комплексное производство с высокопроизводительным оборудованием — раскрой металла толщиной до 100 мм, высокоточная художественная резка, гибка, сварочные работы и покраска.
+
+* Большой сборочный цех общей площадью более 3000 м2 — создаем конструкции промышленной и коммерческой направленности
