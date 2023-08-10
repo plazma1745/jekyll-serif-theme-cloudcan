@@ -32,9 +32,9 @@ logo:
   mobile: "/uploads/logo.png"
   mobile_height: 32px
   mobile_width: 32px
-  desktop: 
+  desktop: "/uploads/logo.png"
   desktop_height: 32px
-  desktop_width: 120px
+  desktop_width: 32px
 home:
   limit_services: 6
 sass:
