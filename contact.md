@@ -1,6 +1,6 @@
 ---
 title: Contact
-position: 1
+position: 4
 layout: contact
 description: Contact
 ---
