@@ -32,7 +32,7 @@ logo:
   mobile: "/uploads/logo.png"
   mobile_height: 32px
   mobile_width: 32px
-  desktop: "/uploads/logo.png"
+  desktop: 
   desktop_height: 32px
   desktop_width: 120px
 home:
