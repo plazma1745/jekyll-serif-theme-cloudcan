@@ -1,7 +1,6 @@
 ---
 title: ГАЗОВАЯ РЕЗКА МЕТАЛЛА
 date: 2019-05-18 02:33:00 Z
-published: false
 weight: 7
 ---
 
