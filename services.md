@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Услуги
 position: 1
 description: Услуги металлобработки в Златоусте
 intro_image: images/illustrations/reading.svg
