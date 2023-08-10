@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Главная
 position: 0
 description: Плазменная резка в Златоусте
 intro_image: images/illustrations/pointing.svg
