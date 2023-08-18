@@ -1,7 +1,6 @@
 ---
 title: Вакансии
 permalink: "/team/"
-published: false
 position: 2
 description: Team
 intro_image_absolute: true
