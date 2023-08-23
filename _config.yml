@@ -2,9 +2,6 @@
 title: Плазменная резка в Златоусте
 timezone: UTC
 collections:
-  post:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
