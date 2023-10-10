@@ -1,7 +1,7 @@
 [
   {
     "title": "Индивидуальный подход и конкурентные цены",
-    "description": "Компания плазменной резки может предложить клиентам индивидуальный подход к их потребностям и требованиям",
+    "description": "Индивидуальный подход к их потребностям и требованиям",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Высокое качество резки",
+    "description": "Точные и четкие контуры, что особенно важно для производства деталей и компонентов.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Быстрая и эффективная обработка*",
+    "description": "Плазменная резка является быстрым и эффективным способом обработки материалов. Компания может предложить клиентам быструю обработку заказов, что позволяет сократить время производства и улучшить общую эффективность работы.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
