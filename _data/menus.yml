@@ -12,7 +12,7 @@ main:
     url: "/contact/"
     weight: 5
   - name: "Блог"
-    url: "/posts/"
+    url: "/post/"
     weight: 6
 
 footer:
