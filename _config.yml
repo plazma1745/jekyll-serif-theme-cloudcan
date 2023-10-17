@@ -8,9 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  blog:
-    title: blog
-    output: true
   team:
     title: Вакансии
     output: true
