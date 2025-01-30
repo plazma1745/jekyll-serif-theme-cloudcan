@@ -1,0 +1,13 @@
+{
+  "name": "jekyll-tina-cms",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "tinacms": "^0.69.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "scripts": {
+    "build": "jekyll build"
+  }
+}
